@@ -1,0 +1,18 @@
+E:\Unit 15 - OOP\CSharpProjects\Birthdays\Birthdays\bin\Debug\Birthdays.exe.config
+E:\Unit 15 - OOP\CSharpProjects\Birthdays\Birthdays\obj\Debug\Birthdays.csprojResolveAssemblyReference.cache
+E:\Unit 15 - OOP\CSharpProjects\Birthdays\Birthdays\obj\Debug\Birthdays.FormBirthday.resources
+E:\Unit 15 - OOP\CSharpProjects\Birthdays\Birthdays\obj\Debug\Birthdays.Properties.Resources.resources
+E:\Unit 15 - OOP\CSharpProjects\Birthdays\Birthdays\obj\Debug\Birthdays.csproj.GenerateResource.Cache
+E:\Unit 15 - OOP\CSharpProjects\Birthdays\Birthdays\bin\Debug\Birthdays.exe
+E:\Unit 15 - OOP\CSharpProjects\Birthdays\Birthdays\bin\Debug\Birthdays.pdb
+E:\Unit 15 - OOP\CSharpProjects\Birthdays\Birthdays\obj\Debug\Birthdays.exe
+E:\Unit 15 - OOP\CSharpProjects\Birthdays\Birthdays\obj\Debug\Birthdays.pdb
+D:\CYear1-2\Unit 15 - Gazpacho sOOP\CSharpProjects\Birthdays\Birthdays\bin\Debug\Birthdays.exe.config
+D:\CYear1-2\Unit 15 - Gazpacho sOOP\CSharpProjects\Birthdays\Birthdays\bin\Debug\Birthdays.exe
+D:\CYear1-2\Unit 15 - Gazpacho sOOP\CSharpProjects\Birthdays\Birthdays\bin\Debug\Birthdays.pdb
+D:\CYear1-2\Unit 15 - Gazpacho sOOP\CSharpProjects\Birthdays\Birthdays\obj\Debug\Birthdays.csprojResolveAssemblyReference.cache
+D:\CYear1-2\Unit 15 - Gazpacho sOOP\CSharpProjects\Birthdays\Birthdays\obj\Debug\Birthdays.FormBirthday.resources
+D:\CYear1-2\Unit 15 - Gazpacho sOOP\CSharpProjects\Birthdays\Birthdays\obj\Debug\Birthdays.Properties.Resources.resources
+D:\CYear1-2\Unit 15 - Gazpacho sOOP\CSharpProjects\Birthdays\Birthdays\obj\Debug\Birthdays.csproj.GenerateResource.Cache
+D:\CYear1-2\Unit 15 - Gazpacho sOOP\CSharpProjects\Birthdays\Birthdays\obj\Debug\Birthdays.exe
+D:\CYear1-2\Unit 15 - Gazpacho sOOP\CSharpProjects\Birthdays\Birthdays\obj\Debug\Birthdays.pdb
